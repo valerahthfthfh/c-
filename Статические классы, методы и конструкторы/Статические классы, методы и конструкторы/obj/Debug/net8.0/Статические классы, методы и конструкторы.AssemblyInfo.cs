@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Статические классы, методы и конструкторы")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1eeebc16128fbb7a6737def17931194833d770cf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74a7818fac80e17cd2491dde7fa113a0bffe4dc1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Статические классы, методы и конструкторы")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Статические классы, методы и конструкторы")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
