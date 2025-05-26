@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\c-\Интерфейы\Интерфейы\bin\Debug\Интерфейы.exe.config
+C:\Users\user\Desktop\c-\Интерфейы\Интерфейы\bin\Debug\Интерфейы.exe
+C:\Users\user\Desktop\c-\Интерфейы\Интерфейы\bin\Debug\Интерфейы.pdb
+C:\Users\user\Desktop\c-\Интерфейы\Интерфейы\obj\Debug\Интерфейы.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\c-\Интерфейы\Интерфейы\obj\Debug\Интерфейы.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c-\Интерфейы\Интерфейы\obj\Debug\Интерфейы.exe
+C:\Users\user\Desktop\c-\Интерфейы\Интерфейы\obj\Debug\Интерфейы.pdb
