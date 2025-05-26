@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\c-\Словари\Словари\bin\Debug\Словари.exe.config
+C:\Users\user\Desktop\c-\Словари\Словари\bin\Debug\Словари.exe
+C:\Users\user\Desktop\c-\Словари\Словари\bin\Debug\Словари.pdb
+C:\Users\user\Desktop\c-\Словари\Словари\obj\Debug\Словари.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\c-\Словари\Словари\obj\Debug\Словари.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c-\Словари\Словари\obj\Debug\Словари.exe
+C:\Users\user\Desktop\c-\Словари\Словари\obj\Debug\Словари.pdb
