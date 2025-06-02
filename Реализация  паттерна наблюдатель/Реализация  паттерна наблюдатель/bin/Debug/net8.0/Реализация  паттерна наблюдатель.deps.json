@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Реализация  паттерна наблюдатель/1.0.0": {
+        "runtime": {
+          "Реализация  паттерна наблюдатель.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Реализация  паттерна наблюдатель/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
