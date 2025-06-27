@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанных со сборкой.
-[assembly: AssemblyTitle("казино")]
+[assembly: AssemblyTitle("Однорукий ковбой")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("казино")]
+[assembly: AssemblyProduct("Однорукий ковбой")]
 [assembly: AssemblyCopyright("Copyright ©  2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("4e70826d-63d2-456a-ad58-3bf9c3621d8d")]
+[assembly: Guid("494321b9-53e7-4636-be15-b78d44c2fce7")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //

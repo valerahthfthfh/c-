@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\c-\Однорукий ковбой\Однорукий ковбой\obj\Debug\Однорукий ковбой.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\c-\Однорукий ковбой\Однорукий ковбой\obj\Debug\Однорукий_ковбой.Form1.resources
+C:\Users\user\Desktop\c-\Однорукий ковбой\Однорукий ковбой\obj\Debug\Однорукий_ковбой.Properties.Resources.resources
+C:\Users\user\Desktop\c-\Однорукий ковбой\Однорукий ковбой\obj\Debug\Однорукий ковбой.csproj.GenerateResource.cache
+C:\Users\user\Desktop\c-\Однорукий ковбой\Однорукий ковбой\obj\Debug\Однорукий ковбой.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c-\Однорукий ковбой\Однорукий ковбой\bin\Debug\Однорукий ковбой.exe.config
+C:\Users\user\Desktop\c-\Однорукий ковбой\Однорукий ковбой\bin\Debug\Однорукий ковбой.exe
+C:\Users\user\Desktop\c-\Однорукий ковбой\Однорукий ковбой\bin\Debug\Однорукий ковбой.pdb
+C:\Users\user\Desktop\c-\Однорукий ковбой\Однорукий ковбой\obj\Debug\Однорукий ковбой.exe
+C:\Users\user\Desktop\c-\Однорукий ковбой\Однорукий ковбой\obj\Debug\Однорукий ковбой.pdb
